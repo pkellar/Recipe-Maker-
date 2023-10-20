@@ -1,0 +1,103 @@
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m4[0m
+file name:> [34;1mfullClean.xml[0m
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m9[0m
+milk: 103.0
+pint of milk: 103.0
+condensed milk: 412.0
+half and half: 593.0
+sweetened condensed milk: 1283.9
+shortbread: 591.7
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m1[0m
+What recipe:> [34;1moatmeal[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mb[0m
+Name:> [34;1mporridge[0m
+Expansion Factor:> [34;1m2.2[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mmix[0m
+Name:> [34;1msoaked oatmeal[0m
+What ingredient (mix, baked, remeasure, single):> [34;1ms[0m
+Name:> [34;1mwater[0m
+Calories:> [34;1m0[0m
+Cups:> [34;1m1[0m
+Added single
+Add another ingredient (y/n):> [34;1my[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mr[0m
+New Quantity:> [34;1m0.75[0m
+What ingredient (mix, baked, remeasure, single):> [34;1ms[0m
+Name:> [34;1moats[0m
+Calories:> [34;1m607[0m
+Cups:> [34;1m1[0m
+Added single
+added remeasure
+Add another ingredient (y/n):> [34;1mn[0m
+added mix
+added baked
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m9[0m
+milk: 103.0
+pint of milk: 103.0
+condensed milk: 412.0
+half and half: 593.0
+sweetened condensed milk: 1283.9
+shortbread: 591.7
+oatmeal: 118.2
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m0[0m
+

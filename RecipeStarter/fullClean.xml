@@ -1,0 +1,40 @@
+<recipebook>
+    <recipe name="milk">
+        <single cups="1" calories="103">milk</single>
+    </recipe>
+    <recipe name="pint of milk">
+        <remeasure quantity="2">
+            <single cups="1" calories="103">milk</single>
+        </remeasure>
+    </recipe>
+    <recipe name="condensed milk">
+        <baked expansion="0.25" name="simmered">
+            <single cups="1" calories="103">milk</single>
+        </baked>
+    </recipe>
+    <recipe name="half and half">
+        <mix name="blend">
+            <single cups="0.5" calories="103">milk</single>
+            <single cups="0.5" calories="490">cream</single>
+        </mix>
+    </recipe>
+    <recipe name="sweetened condensed milk">
+        <baked expansion="0.25" name="simmered">
+            <mix name="blend">
+                <single cups="0.5" calories="103">milk</single>
+                <single cups="0.12" calories="96">sugar</single>
+            </mix>
+        </baked>
+    </recipe>
+    <recipe name="shortbread">
+        <baked expansion="1.5">
+            <mix name="dough">
+                <single cups="1" calories="1628">butter</single>
+                <single cups="1.25" calories="455">flour</single>
+                <remeasure quantity="0.75">
+                    <single cups="1" calories="773">sugar</single>
+                </remeasure>
+            </mix>
+        </baked>
+    </recipe>
+</recipebook>

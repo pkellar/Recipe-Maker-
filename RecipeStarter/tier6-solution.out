@@ -1,0 +1,84 @@
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> File name:> 
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> milk: 103.0
+pint of milk: 103.0
+condensed milk: 412.0
+half and half: 593.0
+sweetened condensed milk: 1283.9
+shortbread: 591.7
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> What recipe:> 
+What ingredient (mix, baked, remeasure, single):> Name:> Expansion Factor:> 
+What ingredient (mix, baked, remeasure, single):> Name:> 
+What ingredient (mix, baked, remeasure, single):> Name:> Calories:> Cups:> Added single
+Add another ingredient (y/n):> 
+What ingredient (mix, baked, remeasure, single):> New Quantity:> 
+What ingredient (mix, baked, remeasure, single):> Name:> Calories:> Cups:> Added single
+Added remeasure
+Add another ingredient (y/n):> Added mix
+Added baked
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> milk: 103.0
+pint of milk: 103.0
+condensed milk: 412.0
+half and half: 593.0
+sweetened condensed milk: 1283.9
+shortbread: 591.7
+oatmeal: 118.2
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> 

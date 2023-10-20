@@ -1,0 +1,114 @@
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m4[0m
+file name:> [34;1mdoesNotExist.xml[0m
+could not open file: doesNotExist.xml (the system cannot find the file specified)
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m4[0m
+file name:> [34;1msingleBad.xml[0m
+invalid xml file. needs to be an recipebook xml file
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m4[0m
+file name:> [34;1mmessy.xml[0m
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+recipe: milk
+==================================
+  ______milk______
+  cups: 1
+  calories: 100
+
+
+recipe: scalded milk
+==================================
+  baked milk (1.0)
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: oatmeal
+==================================
+  baked soaked oats (1.0)
+    soaked oats
+    *****************************
+      ______water______
+      cups: 1
+      calories: 0
+      remeasure to 0.75 cups
+        ______sugar______
+        cups: 1
+        calories: 607
+    *****************************
+
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m0[0m
+

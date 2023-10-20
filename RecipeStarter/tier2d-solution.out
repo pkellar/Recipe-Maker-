@@ -1,0 +1,213 @@
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> File name:> 
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> 
+Recipe: Milk 
+==================================
+  ______Milk______
+  Cups: 1
+  Calories: 103
+
+Recipe: Pint of milk 
+==================================
+
+  Remeasure to 2.0 cups
+    ______Milk______
+    Cups: 1
+    Calories: 103
+
+Recipe: Condensed milk 
+==================================
+
+  Simmered (0.25)
+    ______Milk______
+    Cups: 1
+    Calories: 103
+
+Recipe: Half and half 
+==================================
+  Blend 
+  *****************************
+    ______Milk______
+    Cups: 0.5
+    Calories: 103
+    ______Cream______
+    Cups: 0.5
+    Calories: 490
+  *****************************
+
+Recipe: Sweetened condensed milk 
+==================================
+
+  Simmered (0.25)
+    Blend 
+    *****************************
+      ______Milk______
+      Cups: 0.5
+      Calories: 103
+      ______Sugar______
+      Cups: 0.12
+      Calories: 96
+    *****************************
+
+Recipe: Shortbread 
+==================================
+
+  Baked Dough (1.5)
+    Dough 
+    *****************************
+      ______Butter______
+      Cups: 1
+      Calories: 1628
+      ______Flour______
+      Cups: 1.25
+      Calories: 455
+
+      Remeasure to 0.75 cups
+        ______Sugar______
+        Cups: 1
+        Calories: 773
+    *****************************
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> File name:> 
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> 
+Recipe: Milk 
+==================================
+  ______Milk______
+  Cups: 1
+  Calories: 103
+
+Recipe: Pint of milk 
+==================================
+
+  Remeasure to 2.0 cups
+    ______Milk______
+    Cups: 1
+    Calories: 103
+
+Recipe: Condensed milk 
+==================================
+
+  Simmered (0.25)
+    ______Milk______
+    Cups: 1
+    Calories: 103
+
+Recipe: Half and half 
+==================================
+  Blend 
+  *****************************
+    ______Milk______
+    Cups: 0.5
+    Calories: 103
+    ______Cream______
+    Cups: 0.5
+    Calories: 490
+  *****************************
+
+Recipe: Sweetened condensed milk 
+==================================
+
+  Simmered (0.25)
+    Blend 
+    *****************************
+      ______Milk______
+      Cups: 0.5
+      Calories: 103
+      ______Sugar______
+      Cups: 0.12
+      Calories: 96
+    *****************************
+
+Recipe: Shortbread 
+==================================
+
+  Baked Dough (1.5)
+    Dough 
+    *****************************
+      ______Butter______
+      Cups: 1
+      Calories: 1628
+      ______Flour______
+      Cups: 1.25
+      Calories: 455
+
+      Remeasure to 0.75 cups
+        ______Sugar______
+        Cups: 1
+        Calories: 773
+    *****************************
+
+Recipe: Oatmeal 
+==================================
+
+  Baked Soaked oats (2.2)
+    Soaked oats 
+    *****************************
+      ______Water______
+      Cups: 1
+      Calories: 0
+
+      Remeasure to 0.75 cups
+        ______Oats______
+        Cups: 1
+        Calories: 607
+    *****************************
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> 

@@ -1,0 +1,364 @@
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m1[0m
+What recipe:> [34;1mmilk[0m
+What ingredient (mix, baked, remeasure, single):> [34;1msingle[0m
+Name:> [34;1mmilk[0m
+Calories:> [34;1m103[0m
+Cups:> [34;1m1[0m
+Added single
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+recipe: milk
+==================================
+  ______milk______
+  cups: 1
+  calories: 103
+
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m1[0m
+What recipe:> [34;1mmilk[0m
+milk is already in the book
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m1[0m
+What recipe:> [34;1mpint of milk[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mremeasure[0m
+New Quantity:> [34;1m2[0m
+What ingredient (mix, baked, remeasure, single):> [34;1msingle[0m
+Name:> [34;1mmilk[0m
+Calories:> [34;1m103[0m
+Cups:> [34;1m1[0m
+Added single
+added remeasure
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+recipe: milk
+==================================
+  ______milk______
+  cups: 1
+  calories: 103
+
+
+recipe: pint of milk
+==================================
+  remeasure to 2.0 cups
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m1[0m
+What recipe:> [34;1mcondensed milk[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mbaked[0m
+Name:> [34;1msimmered[0m
+Expansion Factor:> [34;1m0.25[0m
+What ingredient (mix, baked, remeasure, single):> [34;1msingle[0m
+Name:> [34;1mmilk[0m
+Calories:> [34;1m103[0m
+Cups:> [34;1m1[0m
+Added single
+added baked
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+recipe: milk
+==================================
+  ______milk______
+  cups: 1
+  calories: 103
+
+
+recipe: pint of milk
+==================================
+  remeasure to 2.0 cups
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: condensed milk
+==================================
+  simmered (0.25)
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m1[0m
+What recipe:> [34;1mhalf and half[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mmix[0m
+Name:> [34;1mblend[0m
+What ingredient (mix, baked, remeasure, single):> [34;1msingle[0m
+Name:> [34;1mmilk[0m
+Calories:> [34;1m103[0m
+Cups:> [34;1m0.5[0m
+Added single
+Add another ingredient (y/n):> [34;1my[0m
+What ingredient (mix, baked, remeasure, single):> [34;1msingle[0m
+Name:> [34;1mcream[0m
+Calories:> [34;1m490[0m
+Cups:> [34;1m0.5[0m
+Added single
+Add another ingredient (y/n):> [34;1mn[0m
+added mix
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+recipe: milk
+==================================
+  ______milk______
+  cups: 1
+  calories: 103
+
+
+recipe: pint of milk
+==================================
+  remeasure to 2.0 cups
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: condensed milk
+==================================
+  simmered (0.25)
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: half and half
+==================================
+  blend
+  *****************************
+    ______milk______
+    cups: 0.5
+    calories: 103
+    ______cream______
+    cups: 0.5
+    calories: 490
+  *****************************
+
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m1[0m
+What recipe:> [34;1mshortbread[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mb[0m
+Name:> [34;1mcookie[0m
+Expansion Factor:> [34;1m1.5[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mMIX[0m
+Name:> [34;1mdough[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mS[0m
+Name:> [34;1mbutter[0m
+Calories:> [34;1m1628[0m
+Cups:> [34;1m1[0m
+Added single
+Add another ingredient (y/n):> [34;1mY[0m
+What ingredient (mix, baked, remeasure, single):> [34;1msinGle[0m
+Name:> [34;1mflour[0m
+Calories:> [34;1m455[0m
+Cups:> [34;1m1.25[0m
+Added single
+Add another ingredient (y/n):> [34;1mY[0m
+What ingredient (mix, baked, remeasure, single):> [34;1mr[0m
+New Quantity:> [34;1m0.75[0m
+What ingredient (mix, baked, remeasure, single):> [34;1msingle[0m
+Name:> [34;1msugar[0m
+Calories:> [34;1m773[0m
+Cups:> [34;1m1[0m
+Added single
+added remeasure
+Add another ingredient (y/n):> [34;1mn[0m
+added mix
+added baked
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+recipe: milk
+==================================
+  ______milk______
+  cups: 1
+  calories: 103
+
+
+recipe: pint of milk
+==================================
+  remeasure to 2.0 cups
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: condensed milk
+==================================
+  simmered (0.25)
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: half and half
+==================================
+  blend
+  *****************************
+    ______milk______
+    cups: 0.5
+    calories: 103
+    ______cream______
+    cups: 0.5
+    calories: 490
+  *****************************
+
+
+recipe: shortbread
+==================================
+  cookie (1.5)
+    dough
+    *****************************
+      ______butter______
+      cups: 1
+      calories: 1628
+      ______flour______
+      cups: 1.25
+      calories: 455
+      remeasure to 0.75 cups
+        ______sugar______
+        cups: 1
+        calories: 773
+    *****************************
+
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m0[0m
+

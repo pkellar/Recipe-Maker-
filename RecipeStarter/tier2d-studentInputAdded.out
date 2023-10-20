@@ -1,0 +1,219 @@
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m4[0m
+file name:> [34;1mfullClean.xml[0m
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+recipe: milk
+==================================
+  ______milk______
+  cups: 1
+  calories: 103
+
+
+recipe: pint of milk
+==================================
+  remeasure to 2.0 cups
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: condensed milk
+==================================
+  simmered (0.25)
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: half and half
+==================================
+  blend
+  *****************************
+    ______milk______
+    cups: 0.5
+    calories: 103
+    ______cream______
+    cups: 0.5
+    calories: 490
+  *****************************
+
+
+recipe: sweetened condensed milk
+==================================
+  simmered (0.25)
+    blend
+    *****************************
+      ______milk______
+      cups: 0.5
+      calories: 103
+      ______sugar______
+      cups: 0.12
+      calories: 96
+    *****************************
+
+
+recipe: shortbread
+==================================
+  baked dough (1.5)
+    dough
+    *****************************
+      ______butter______
+      cups: 1
+      calories: 1628
+      ______flour______
+      cups: 1.25
+      calories: 455
+      remeasure to 0.75 cups
+        ______sugar______
+        cups: 1
+        calories: 773
+    *****************************
+
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m4[0m
+file name:> [34;1mOatmeal.xml[0m
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m2[0m
+recipe: milk
+==================================
+  ______milk______
+  cups: 1
+  calories: 103
+
+
+recipe: pint of milk
+==================================
+  remeasure to 2.0 cups
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: condensed milk
+==================================
+  simmered (0.25)
+    ______milk______
+    cups: 1
+    calories: 103
+
+
+recipe: half and half
+==================================
+  blend
+  *****************************
+    ______milk______
+    cups: 0.5
+    calories: 103
+    ______cream______
+    cups: 0.5
+    calories: 490
+  *****************************
+
+
+recipe: sweetened condensed milk
+==================================
+  simmered (0.25)
+    blend
+    *****************************
+      ______milk______
+      cups: 0.5
+      calories: 103
+      ______sugar______
+      cups: 0.12
+      calories: 96
+    *****************************
+
+
+recipe: shortbread
+==================================
+  baked dough (1.5)
+    dough
+    *****************************
+      ______butter______
+      cups: 1
+      calories: 1628
+      ______flour______
+      cups: 1.25
+      calories: 455
+      remeasure to 0.75 cups
+        ______sugar______
+        cups: 1
+        calories: 773
+    *****************************
+
+
+recipe: oatmeal
+==================================
+  baked soaked oats (2.2)
+    soaked oats
+    *****************************
+      ______water______
+      cups: 1
+      calories: 0
+      remeasure to 0.75 cups
+        ______oats______
+        cups: 1
+        calories: 607
+    *****************************
+
+
+
+1) Add Data
+2) Display Data
+3) Remove Recipe
+4) Load XML
+5) Write XML
+6) Find Ingredient in Recipe
+7) Calculate Calories
+8) Calculate Volume
+9) Calculate Calorie Density
+0) Quit
+
+Choice:> [34;1m0[0m
+

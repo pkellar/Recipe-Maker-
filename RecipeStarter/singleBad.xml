@@ -1,0 +1,27 @@
+<taxonomy>
+  <class name="mammalia">
+    <feature>Fur</feature>
+    <order name="Carnivora">
+      <feature>carnivore</feature>
+      <family name="Canidae">
+        <feature>Fangs</feature>
+        <feature>Tail</feature>
+        <summary species="37" genus="12">Dog, Wolf, Coyote</summary>
+      </family>
+      <family name="felidae">
+        <feature>Fangs</feature>
+        <feature>retractable claws</feature>
+        <feature>Tail</feature>
+        <summary species="36" genus="18">Lion, tiger, domestic cat</summary>
+      </family>
+    </order>
+    <order name="Cetacea">
+      <feature>aquatic</feature>
+      <family name="Delphinidae">
+        <feature>echolocation</feature>
+        <feature>beak</feature>
+        <summary species="32" genus="17">dolphins, porpoises, and whales</summary>
+      </family>
+    </order>
+  </class>
+</taxonomy>

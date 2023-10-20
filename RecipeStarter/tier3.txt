@@ -1,0 +1,46 @@
+4
+fullClean.xml
+2
+
+1
+oatmeal
+b
+porridge
+2.2
+mix
+soaked oatmeal
+s
+water
+0
+1
+y
+r
+0.75
+s
+oats
+607
+1
+n
+
+5
+tier3_Out.xml
+
+3
+milk
+3
+pint of MILK
+3
+condensed milk
+3
+half and half
+3
+shortbread
+3
+oatmeal
+2
+
+4
+tier3_Out.xml
+2
+
+0

@@ -1,0 +1,14 @@
+<recipebook>
+  <recipe name="cookie">
+    <baked expansion="1.5">
+      <mix name="dough">
+        <single cups="1" calories="1628">butter</single>
+        <single cups="1.25" calories="455">flour</single>
+        <remeasure quantity="0.75">
+          <single cups="1" calories="773">sugar</single>
+        </remeasure>
+      </mix>
+    </baked>
+  </recipe>
+
+</recipebook>

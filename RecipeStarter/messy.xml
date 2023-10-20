@@ -1,0 +1,26 @@
+<recipebook>
+  <recipe name="milk">
+    <single>milk</single>
+  </recipe>
+  <recipe name="scalded milk">
+    <baked>
+      <single cups="1" calories="103">milk</single>
+    </baked>
+  </recipe>
+  <recipe name="oatmeal">
+    <saute>
+      <single cups="1.5" calories="260">chicken</single>
+      <single cups="0.5" calories="36">onion</single>
+    </saute>
+    <baked>
+      <mix name="soaked oats">
+        <single calories="0">water</single>
+        <remeasure quantity="0.75">
+          3/4 cup
+          <single cups="1" calories="607.0" expiration="06/01/2025">sugar</single>
+          <suace url="http://www.roostersriracha.com/">sriracha</suace>
+        </remeasure>
+      </mix>
+    </baked>
+  </recipe>
+</recipebook>

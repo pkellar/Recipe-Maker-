@@ -1,0 +1,12 @@
+<recipebook>
+  <recipe name="oatmeal">
+    <baked expansion="2.2">
+      <mix name="soaked oats">
+        <single cups="1" calories="0">water</single>
+        <remeasure quantity="0.75">
+          <single cups="1" calories="607.0">oats</single>
+        </remeasure>
+      </mix>
+    </baked>
+  </recipe>
+</recipebook>
